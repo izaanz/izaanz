@@ -3,19 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=izaanz&label=Profile%20views&color=0e75b6&style=flat" alt="izaanz" /> </p>
 
-- 🔭 I’m currently working on **Habit Tracker**
+- 🔭 I’m currently working on **Nothing**
 
-- 🌱 I’m currently learning **Python, Julia, JavaScript, Solidity, Machine Learning Frameworks, Calculus, Statistics & Probability and Linear Algebra**
+- 🌱 I’m currently learning: **Python, Julia, JavaScript, Solidity, Machine Learning Frameworks, Calculus, Statistics & Probability and Linear Algebra**
 
-- 👨‍💻 All of my projects are available at [https://github.com/izaanz](https://github.com/izaanz)
+- 👨‍💻 All of my projects are available at: [https://github.com/izaanz](https://github.com/izaanz)
 
-- 📝 I regularly write articles on [techlapse.com](techlapse.com)
+- 📝 I regularly write articles on: [techlapse.com](techlapse.com)
 
-- 💬 Ask me about **Python, AI, Blockchain or any tech update.**
+- 💬 Ask me about: **Python, AI, Blockchain or any tech update.**
 
-- 📫 How to reach me **izkidy@yahoo.com**
+- 📫 How to reach me: **izkidy@yahoo.com**
 
-- ⚡ Fun fact **I hate mathematics yet I like to solve mathematical queries.**
+- ⚡ Fun fact: **I hate mathematics yet I like to solve mathematical queries.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
