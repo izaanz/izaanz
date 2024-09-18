@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at: [https://github.com/izaanz](https://github.com/izaanz)
 
-- 📝 I regularly write articles on: [techlapse.com](techlapse.com)
-
 - 💬 Ask me about: **Python, AI, Blockchain or any tech update.**
 
 - 📫 How to reach me: **izkidy@yahoo.com**
