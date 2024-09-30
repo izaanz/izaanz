@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=izaanz&label=Profile%20views&color=0e75b6&style=flat" alt="izaanz" /> </p>
 
-- 🔭 I’m currently working on **Nothing**
+- 🔭 I’m currently working on **ML Zoomcamp**
 
 - 🌱 I’m currently learning: **Python, Julia, JavaScript, Solidity, Machine Learning Frameworks, Calculus, Statistics & Probability and Linear Algebra**
 
